@@ -1,0 +1,11 @@
+print("My name is Anongrat Intavaree")
+print("My nickname is Tawan")
+print("I'm 17 years old")
+print("My Birthday is 28 February 2005")
+print("I have 4 siblings")
+print("I like to Draw")
+print("aespa is my favorite idol group")
+print("My dogs is very cute")
+print("I'm Thai")
+print("My religion is Buddhist")
+#นางสาวอนงค์รัตน์ อินทวารี ม.6/14 เลขที่44
